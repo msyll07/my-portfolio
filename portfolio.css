@@ -87,7 +87,7 @@ span {
 .hero {
     height: 100vh;
     width: 100%;
-    background-image: url(Portofolio-bck.png);
+    background-image: url("Portofolio-bck.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
